@@ -13,3 +13,4 @@ C:\Users\PRIME TECHNOLOGY\Desktop\.net\Exam8\Infrastructure\obj\Debug\net9.0\Inf
 C:\Users\PRIME TECHNOLOGY\Desktop\.net\Exam8\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
 C:\Users\PRIME TECHNOLOGY\Desktop\.net\Exam8\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 C:\Users\PRIME TECHNOLOGY\Desktop\.net\Exam8\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\PRIME TECHNOLOGY\Desktop\.net\Exam8\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json

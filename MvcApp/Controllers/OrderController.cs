@@ -1,8 +1,16 @@
+﻿using Infrastructure.Data;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using MvcApp.Models;
+using Order = Domain.Entities.Order;
+
+namespace MvcApp.Controllers;
+
 public class OrderController : Controller
 {
-    private readonly AppDbContext _context;
+    private readonly ApplicationDbContext _context;
 
-    public OrderController(AppDbContext context)
+    public OrderController(ApplicationDbContext context)
     {
         _context = context;
     }
